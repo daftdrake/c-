@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3OZ4TsWqOlJwF/Ny1/SDF9FQ3vOvy7LXOo4HxRy6KwUjThnlEupxIL81w1FhjG17UJGFy9rPBC34G9rYD6RCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\LearningCSharp\\DotNet5\\Start\\Program Flow\\BreakContinue\\BreakContinue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

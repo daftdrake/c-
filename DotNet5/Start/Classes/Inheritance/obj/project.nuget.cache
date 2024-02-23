@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "as62V5diZMmU5YgWpbzFnpg6gNY2AdHOiiQTnhWI1g8SWtBiOKfm+mJz6uO2YDNHVqq6ViuNdkFknbOY6QJCZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\LearningCSharp\\DotNet5\\Start\\Classes\\Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

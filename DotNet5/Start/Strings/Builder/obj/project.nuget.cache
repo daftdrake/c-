@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "utitErAdsjdaty4UhbhoKvCCljQkM8m0lspO4illfx11GqAU3d3pDFjRgr/DqagbOQQQ5/WQUqGZk9O0KAqnCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\LearningCSharp\\DotNet5\\Start\\Strings\\Builder\\Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
